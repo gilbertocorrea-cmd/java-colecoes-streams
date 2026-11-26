@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./docs/banner.png" width="100%" alt="Banner do projeto Java Coleções e Streams">
+  <img src="./docs/banner.jpg" width="100%" alt="Banner do projeto Java Coleções e Streams">
 </div>
 
 <div align="center">
