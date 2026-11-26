@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/banner.png" width="100%" alt="Banner do projeto Java Coleções e Streams">
+</div>
+
+<div align="center">
 
 # J A V A　//　C O L E Ç Õ E S　&　S T R E A M S
 
